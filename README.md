@@ -145,10 +145,10 @@ Field technicians can update service notes directly from site visits. Changes ar
 ![AndroidServiceNote](screenshots/AndroidServiceNote.jpeg "AndroidServiceNote")
 
 Database table before update: 
-![Service Records Entry](screenshots/ServiceRecordsEntry.png "Service Records Entry")
+![Service Records Entry](screenshots/ServiceRecordsEntryBefore.png "Service Records Entry")
 
 Database table after update: 
-![Service Records Entry After](screenshots/ServiceRecordsEntry2.png "Service Records Entry After")
+![Service Records Entry After](screenshots/ServiceRecordsEntry.png "Service Records Entry After")
 
 ## Technologies Used
 
@@ -182,7 +182,6 @@ Developed as a demonstration project showcasing:
 - Oracle APEX development
 - Mobile integration with enterprise systems
 - UI/UX and performance-focused thinking
-
 
 
 
