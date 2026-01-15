@@ -60,8 +60,9 @@ The backend is built on **Oracle Database**, using a fully normalised relational
 ## Oracle APEX Application
 
 link: [Oracle APEX Application](https://oracleapex.com/ords/r/tanganelli/wtech-sample/login?session=110568161924877)
-<span style="color:#006400">&#8226; user: **adm**    password: **12345678**<br></span>
-<span style="color:#006400">&#8226; user: **user01** password: **12345678**</span>.
+
+- user: **adm**    password: **12345678**
+- user: **user01** password: **12345678**
 
 The Oracle APEX application provides:
 
