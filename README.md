@@ -78,8 +78,8 @@ The UI/UX is designed for both **office-based staff and management**, with a foc
 
 ## Mobile Application (Android)
 
-<span style="color:#006400">&#8226; user: **adm**    password: **12345678**<br></span>
-<span style="color:#006400">&#8226; user: **user01** password: **12345678**</span>.
+- user: **adm**    password: **12345678**
+- user: **user01** password: **12345678**
 
 A lightweight **Android mobile application built with React Native** demonstrates field service workflows.
 
