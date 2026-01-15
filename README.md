@@ -60,9 +60,8 @@ The backend is built on **Oracle Database**, using a fully normalised relational
 ## Oracle APEX Application
 
 link: [Oracle APEX Application](https://oracleapex.com/ords/r/tanganelli/wtech-sample/login?session=110568161924877)
-
-- user: **adm**    password: **12345678**
-- user: **user01** password: **12345678**
+<span style="color:#006400">&#8226; user: **adm**    password: **12345678**<br></span>
+<span style="color:#006400">&#8226; user: **user01** password: **12345678**</span>.
 
 The Oracle APEX application provides:
 
@@ -78,8 +77,8 @@ The UI/UX is designed for both **office-based staff and management**, with a foc
 
 ## Mobile Application (Android)
 
-- user: **adm**    password: **12345678**
-- user: **user01** password: **12345678**
+<span style="color:#006400">&#8226; user: **adm**    password: **12345678**<br></span>
+<span style="color:#006400">&#8226; user: **user01** password: **12345678**</span>.
 
 A lightweight **Android mobile application built with React Native** demonstrates field service workflows.
 
